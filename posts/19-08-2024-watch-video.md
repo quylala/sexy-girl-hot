@@ -5,7 +5,6 @@
 	<meta charset="UTF-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta name='robots' content='max-image-preview:large' />
-<title>WATCH MORE &#8211; Zing31</title>
 <link rel="alternate" type="application/rss+xml" title="Zing31 &raquo; Feed" href="https://sexy-girl-hot.vercel.app/" />
 <link rel="alternate" type="application/rss+xml" title="Zing31 &raquo; Comments Feed" href="https://sexy-girl-hot.vercel.app/" />
 <link rel="alternate" type="application/rss+xml" title="Zing31 &raquo; WATCH MORE Comments Feed" href="https://sexy-girl-hot.vercel.app/" />
