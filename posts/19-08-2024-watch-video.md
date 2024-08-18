@@ -30,7 +30,6 @@
 
 </nav>
 	
-</script>
 </body>
 </html>
 
